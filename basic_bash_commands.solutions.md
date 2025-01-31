@@ -10,12 +10,12 @@ ls -lS /var/log
 ```
 
 **Exercise 3**
-````bash
+```bash
 nano firstname.txt
 ```
 
 **Exercise 4**
-````bash
+```bash
 echo "Bastug" > lastname.txt
 ```
 
@@ -26,7 +26,7 @@ cat lastname.txt
 ```
 
 **Exercise 6**
-````bash
+```bash
 cat lastname.txt >> firstname.txt
 ```
 
